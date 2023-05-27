@@ -1,0 +1,8 @@
+
+.element{
+    display: inline;
+    margin: 20px;
+}
+.element:hover{
+    background-color: blanchedalmond;
+}

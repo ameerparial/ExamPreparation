@@ -1,3 +1,7 @@
+.elements{
+  display: inline;
+  margin: 20px;
+}
 .App {
   text-align: center;
 }
